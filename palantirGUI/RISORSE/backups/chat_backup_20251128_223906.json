@@ -1,0 +1,30 @@
+{
+  "export_date": "2025-11-28T22:39:06.146757",
+  "version": "1.0",
+  "chats": [
+    {
+      "chat_id": "PROVA123",
+      "participants": [
+        "Utente1",
+        "Utente2"
+      ],
+      "messages": [
+        {
+          "sender": "Utente1",
+          "content": "ASD",
+          "timestamp": "2025-11-25T19:19:01.708050"
+        },
+        {
+          "sender": "Utente1",
+          "content": "COME VA",
+          "timestamp": "2025-11-25T19:19:07.438739"
+        },
+        {
+          "sender": "Utente1",
+          "content": "TUTTO BENE E TU?",
+          "timestamp": "2025-11-25T19:19:12.894920"
+        }
+      ]
+    }
+  ]
+}
