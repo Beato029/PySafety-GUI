@@ -1,0 +1,19 @@
+{
+    "backup_data": "",
+    "chats": [
+        {
+            "chat_id": "ciao",
+            "partcipants": [],
+            "messages": [
+                {}
+            ]
+        },
+        {
+            "chat_id": "asdf",
+            "partcipants": [],
+            "messages": [
+                {}
+            ]
+        }
+    ]
+}
